@@ -1,0 +1,55 @@
+.nav_header{
+  background: rgb(198,234,249);
+background: linear-gradient(180deg, rgba(198,234,249,1) 24%, rgba(249,253,254,1) 100%);
+}
+.footer_container{
+  background: rgb(198,234,249);
+background: linear-gradient(0deg, #c5eaf9 24%, #f9fdfe 100%);
+
+}
+
+.priceList_title,.active{
+  color: #eb427e !important;
+}
+
+.btn_purple{
+  background-color: #594cda  !important;
+}
+.btn_red{
+  background-color: #eb427e  !important;
+}
+.card_detail{
+  background-color:  #f1f9fc !important;
+  border-radius: 1.3rem !important;
+}
+.card_detail .card-title{
+  letter-spacing: 1px;
+}
+.carousel_slider{
+  background-color:  #f1f9fc !important;
+}
+.priceList{
+    position: relative;
+    padding-top: 8rem;
+    background: linear-gradient(rgba(50, 60, 70, 0.9), rgba(50, 60, 70, 0.9)), url(./images/pricing-background.jpg) center center no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.footer-above{
+  padding-top: 4.5rem;
+  padding-bottom: 7.5rem;
+  background: url(./images/conclusion-background.jpg) center center no-repeat;
+  background-size: cover;
+}
+
+@media (max-width: 992px) { 
+  .navbar{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+    background-color: white !important;
+  }
+
+}
