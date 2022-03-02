@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/CreatingPavoUi/static/css/main.f2fd705a.chunk.css",
+    "main.js": "/CreatingPavoUi/static/js/main.dab5e5f1.chunk.js",
+    "main.js.map": "/CreatingPavoUi/static/js/main.dab5e5f1.chunk.js.map",
+    "runtime-main.js": "/CreatingPavoUi/static/js/runtime-main.2a04369c.js",
+    "runtime-main.js.map": "/CreatingPavoUi/static/js/runtime-main.2a04369c.js.map",
+    "static/js/2.9759c251.chunk.js": "/CreatingPavoUi/static/js/2.9759c251.chunk.js",
+    "static/js/2.9759c251.chunk.js.map": "/CreatingPavoUi/static/js/2.9759c251.chunk.js.map",
+    "index.html": "/CreatingPavoUi/index.html",
+    "static/css/main.f2fd705a.chunk.css.map": "/CreatingPavoUi/static/css/main.f2fd705a.chunk.css.map",
+    "static/js/2.9759c251.chunk.js.LICENSE.txt": "/CreatingPavoUi/static/js/2.9759c251.chunk.js.LICENSE.txt",
+    "static/media/btn-red.001d444c.png": "/CreatingPavoUi/static/media/btn-red.001d444c.png",
+    "static/media/btn-white.2b859b0b.png": "/CreatingPavoUi/static/media/btn-white.2b859b0b.png",
+    "static/media/ui.css": "/CreatingPavoUi/static/media/pricing-background.97d38eb4.jpg",
+    "static/media/details-1.7eb0695c.jpg": "/CreatingPavoUi/static/media/details-1.7eb0695c.jpg",
+    "static/media/details-2.e822ade7.jpg": "/CreatingPavoUi/static/media/details-2.e822ade7.jpg",
+    "static/media/details-3.977045ba.jpg": "/CreatingPavoUi/static/media/details-3.977045ba.jpg",
+    "static/media/features-icon-1.71871276.svg": "/CreatingPavoUi/static/media/features-icon-1.71871276.svg",
+    "static/media/features-icon-2.db5a8dac.svg": "/CreatingPavoUi/static/media/features-icon-2.db5a8dac.svg",
+    "static/media/features-icon-3.dc1e9ad8.svg": "/CreatingPavoUi/static/media/features-icon-3.dc1e9ad8.svg",
+    "static/media/features-icon-4.5c105c60.svg": "/CreatingPavoUi/static/media/features-icon-4.5c105c60.svg",
+    "static/media/features-icon-5.3c0d2824.svg": "/CreatingPavoUi/static/media/features-icon-5.3c0d2824.svg",
+    "static/media/features-icon-6.230429b8.svg": "/CreatingPavoUi/static/media/features-icon-6.230429b8.svg",
+    "static/media/footer-above.4e2f66b9.png": "/CreatingPavoUi/static/media/footer-above.4e2f66b9.png",
+    "static/media/header.456cee90.png": "/CreatingPavoUi/static/media/header.456cee90.png",
+    "static/media/icon-2.776d16d0.png": "/CreatingPavoUi/static/media/icon-2.776d16d0.png",
+    "static/media/icon-3.8e65601e.png": "/CreatingPavoUi/static/media/icon-3.8e65601e.png",
+    "static/media/icon-4.75ff25a1.png": "/CreatingPavoUi/static/media/icon-4.75ff25a1.png",
+    "static/media/logo.8cd1a895.svg": "/CreatingPavoUi/static/media/logo.8cd1a895.svg",
+    "static/media/nav-icon.4b507956.png": "/CreatingPavoUi/static/media/nav-icon.4b507956.png",
+    "static/media/nav-icon1.6538a625.png": "/CreatingPavoUi/static/media/nav-icon1.6538a625.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a04369c.js",
+    "static/js/2.9759c251.chunk.js",
+    "static/css/main.f2fd705a.chunk.css",
+    "static/js/main.dab5e5f1.chunk.js"
+  ]
+}
