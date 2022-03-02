@@ -7,11 +7,11 @@ const FooterAbove = () => {
   return (
     <>
       <div className="container footer-above  my-5">
-        <div className="container d-flex my-5 justify-content-around align-items-center flex-wrap">
-          <div className="col-5 img">
+        <div className="container d-flex  justify-content-around align-items-center flex-wrap">
+          <div className="col-lg-5  col-10 img">
             <img src={footerAbove} className="img-fluid" alt="..." />
           </div>
-          <div className="card col-5 bg-transparent border-0">
+          <div className="card col-lg-5 col-10 mt-4 bg-transparent border-0">
             <h2 className="card-title fw- 6 text-center text-sm-start">
             Team management mobile applications don’t get much better than Pavo. Download it today
             </h2>
