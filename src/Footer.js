@@ -22,42 +22,42 @@ const Footer = () => {
           <div className="icon d-flex my-3 mb-5 pb-5">
             <div className="d-flex bg-white p-2 mx-2 align-item-center rounded-circle footerIcon">
               <a href="#" className=" bg-white">
-                <img src={footcon1} class="img-fluid " width="30" alt="..." />
+                <img src={footcon1} className="img-fluid " width="30" alt="..." />
               </a>
             </div>
             <div className="d-flex bg-white p-2 mx-2 align-item-center rounded-circle footerIcon">
               <a href="#" className=" bg-white">
-                <img src={footcon2} class="img-fluid " width="30" alt="..." />
+                <img src={footcon2} className="img-fluid " width="30" alt="..." />
               </a>
             </div>
             <div className="d-flex bg-white p-2 mx-2 align-item-center rounded-circle footerIcon">
               <a href="#" className=" bg-white">
-                <img src={footcon3} class="img-fluid " width="30" alt="..." />
+                <img src={footcon3} className="img-fluid " width="30" alt="..." />
               </a>
             </div>
             <div className="d-flex bg-white p-2 mx-2 align-item-center rounded-circle footerIcon">
               <a href="#" className=" border-1 bg-white">
-                <img src={footcon4} class="img-fluid " width="30" alt="..." />
+                <img src={footcon4} className="img-fluid " width="30" alt="..." />
               </a>
             </div>
             <div className="d-flex bg-white p-2 mx-2 align-item-center rounded-circle footerIcon">
               <a href="#" className=" bg-white">
-                <img src={footcon5} class="img-fluid " width="30" alt="..." />
+                <img src={footcon5} className="img-fluid " width="30" alt="..." />
               </a>
             </div>
           </div>
         </div>
-          <div className=" d-flex mx-auto justify-content-evenly py-5 col-lg-12 col-6 align-items-center flex-wrap flex-column flex-lg-row">
-                <div className="article my-2 d-flex justify-content-around flex-wrap">
-                    <a href="#" className="text-decoration-none mx-2 text-muted">Article Details</a>
-                    <a href="#" className="text-decoration-none mx-2 text-muted">Terms & Conditions</a>
-                    <a href="#" className="text-decoration-none mx-2 text-muted">Privacy Policy</a>
+          <div className=" d-flex mx-auto justify-content-evenly py-3 col-lg-12 col-10 align-items-center flex-column flex-lg-row flex-wrap flex-column flex-lg-row">
+                <div className="article  d-flex justify-content-lg-around text-center flex-column flex-lg-row flex-wrap">
+                    <a href="#" className="text-decoration-none mx-2 my-1 text-muted">Article Details</a>
+                    <a href="#" className="text-decoration-none mx-2 my-1 text-muted">Terms & Conditions</a>
+                    <a href="#" className="text-decoration-none mx-2 my-1 text-muted">Privacy Policy</a>
                 </div>
-                <div className="my-2 copyright">
+                <div className="my-1 copyright">
 
                     <a href="#" className="text-decoration-none text-muted">Copyright © Your name</a>
                 </div>
-                <div className=" my-2 author">
+                <div className=" my-1 author">
 
                     <a href="#" className="text-decoration-none text-muted">Distributed by :Themewagon</a>
                 </div>

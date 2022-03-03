@@ -22,12 +22,12 @@ const Pricelist = () => {
                 <div className="card-title priceList_title fs-3 fw-bolder">
                   STANDARD
                 </div>
-                <div className="dis d-flex justify-content-center align-items-center  ">
+                <div className="d-flex justify-content-center align-items-center  ">
                   <span className="fs-3 pe-2">$</span>
-                  <span className="display-1 fw-bolder ">29</span>
+                  <span className="display-1 lh-1 lh-1 fw-bolder ">29</span>
                 </div>
                 <div className="text-muted">monthly</div>
-                <p className="text-muted  fs-6">
+                <p className="text-muted py-2 fs-6">
                   This basic package covers the marketing needs of small
                   startups
                 </p>
@@ -35,7 +35,7 @@ const Pricelist = () => {
                   <li className="d-flex">
                     <i
                       className="fw-bolder me-1 bi-chevron-right"
-                      style={{ "font-size": "1rem", color: "#594cda" }}
+                      style={{ "fontSize": "1rem", color: "#594cda" }}
                     ></i>
                     <p className="text-muted text-start fs-6">
                       List building and relations
@@ -83,10 +83,10 @@ const Pricelist = () => {
                 </div>
                 <div className="dis d-flex justify-content-center align-items-center  ">
                   <span className="fs-3 pe-2">$</span>
-                  <span className="display-1 fw-bolder ">39</span>
+                  <span className="display-1 lh-1 fw-bolder ">39</span>
                 </div>
                 <div className="text-muted">monthly</div>
-                <p className="text-muted  fs-6">
+                <p className="text-muted py-2 fs-6">
                   This is a more advanced package suited for medium companies
                 </p>
                 <ul className=" ps-lg-3 ps-1 space-y-2 text-left">
@@ -141,10 +141,10 @@ const Pricelist = () => {
                 </div>
                 <div className="dis d-flex justify-content-center align-items-center  ">
                   <span className="fs-3 pe-2">$</span>
-                  <span className="display-1 fw-bolder ">49</span>
+                  <span className="display-1 lh-1 fw-bolder ">49</span>
                 </div>
                 <div className="text-muted">monthly</div>
-                <p className="text-muted  fs-6">
+                <p className="text-muted py-2 fs-6">
                   This is a comprehensive package designed for big organizations
                 </p>
                 <ul className=" ps-lg-3 ps-1 space-y-2 text-left">

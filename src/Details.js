@@ -48,7 +48,7 @@ const dataArray = [
 const Details = () => {
   return (
     <>
-      <div className="container pt-5 my-5 col-12 col-xl-10">
+      <div className="container-md   pt-5 my-5 col-12 col-xl-10">
         <div className="  my-lg-5 text-center pb-lg-5 px-0 mx-0 pb-5 px-0 px-xl-5 mb-5">
           <h2 className=" mx-xl-3 mx-1 px-1 px-xl-5 text-center ">
             Team management mobile apps don't get better than Pavp.It's probably
@@ -56,7 +56,7 @@ const Details = () => {
             it a try today and you will fall in love with it
           </h2>
         </div>
-        <div className="row row-cols-1 row-cols-lg-3 col-12 row-cols-md-2 row-cols-sm-1 g-4">
+        <div className="row row-cols-1 row-cols-lg-3 mx-auto col-12 row-cols-md-2 row-cols-sm-1 g-4">
           {dataArray.map((dataItem) => {
             const { heading, description, imgSrc } = dataItem;
             return (
