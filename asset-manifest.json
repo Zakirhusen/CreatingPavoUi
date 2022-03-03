@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CreatingPavoUi/static/css/main.f2fd705a.chunk.css",
-    "main.js": "/CreatingPavoUi/static/js/main.dab5e5f1.chunk.js",
-    "main.js.map": "/CreatingPavoUi/static/js/main.dab5e5f1.chunk.js.map",
+    "main.js": "/CreatingPavoUi/static/js/main.fa1a08a9.chunk.js",
+    "main.js.map": "/CreatingPavoUi/static/js/main.fa1a08a9.chunk.js.map",
     "runtime-main.js": "/CreatingPavoUi/static/js/runtime-main.2a04369c.js",
     "runtime-main.js.map": "/CreatingPavoUi/static/js/runtime-main.2a04369c.js.map",
     "static/js/2.9759c251.chunk.js": "/CreatingPavoUi/static/js/2.9759c251.chunk.js",
@@ -35,6 +35,6 @@
     "static/js/runtime-main.2a04369c.js",
     "static/js/2.9759c251.chunk.js",
     "static/css/main.f2fd705a.chunk.css",
-    "static/js/main.dab5e5f1.chunk.js"
+    "static/js/main.fa1a08a9.chunk.js"
   ]
 }
